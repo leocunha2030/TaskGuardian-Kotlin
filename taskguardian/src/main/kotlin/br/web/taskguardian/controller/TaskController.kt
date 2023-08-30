@@ -17,7 +17,7 @@ class TaskController {
         return TaskModel(
             "1",
             "Tarefa de fazer coisas",
-            "Essa tarefa é sobre fazer tal coisa"
+            "Essa tarefa é sobre fazer tal coisas"
         )
     }
     @PostMapping
